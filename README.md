@@ -5,6 +5,7 @@ Create a chat web application where you could chat with other users.
 
 ### Specification
 * App is written with React https://reactjs.org/ library
+* All stylesheet is written in SASS (CSS extension language) http://sass-lang.com/
 * App should be able to send off-site web push notification when receiving new message
 * You can build your own backend stack, but for simplicity we would suggest existing technology such as Firebase Cloud Messaging https://firebase.google.com/docs/cloud-messaging/
 
